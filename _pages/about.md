@@ -18,7 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+UCLAT team is part of UCL Knowledge Lab, University College London, investigating the potential of analytics, artificial intelligence and technology to support human learning. We are particularly interested in supporting students' ability to learn how to learn and solve complex problems collaboratively.  Our work aims to address the pressing social-educational challenge of preparing people for a future that will require a great deal more than the routine cognitive skills currently prized by many education systems.
+
+## Main Themes of Research
+
+1. **Human-AI collaboration** in teaching and learning contexts.
+2. Computational and statistical models of collaboration and regulation of learning behaviours of humans with **multimodal learning analytics**.
+3. Design and use of **analytics feedback interventions** for reflection and regulation for effective pedagogical support, and their impact in real-world settings. 
+4. Psychological and socio-scientific challenges in the **adoption of AI and analytics technologies** in educational practice.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
