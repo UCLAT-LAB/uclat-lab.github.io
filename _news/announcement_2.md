@@ -1,9 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: AIED 2022 in Durham
+date: 2022-07-28 16:11:00-0400
 inline: false
 ---
+
+Team members Qi, Wannapon, Xinyuan, Ali, Madiha and Mutlu are attending AIED 2022 in Durham to present their papers. Check the programme here and join us!!
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
