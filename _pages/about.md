@@ -31,6 +31,9 @@ UCLAT team is part of UCL Knowledge Lab, University College London, investigatin
 
 > How can we design, build, and implement AI and analytics solutions providing opportunities for augmented human capabilities for learning? 
 
+Interested in our research themes? Contact us for PhD positions and collaboration opportunities! [m.cukurova@ucl.ac.uk](m.cukurova@ucl.ac.uk)
+
+
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
